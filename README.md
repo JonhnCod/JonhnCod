@@ -24,13 +24,15 @@ Atualmente estou **em busca de oportunidades de estágio** ou posições de **n�
 - Desenvolvimento Web
 - Projetos IoT
 - Engenharia de Software
+- Analista de sistemas
+- Desenvolvedor Python
 
 Estou pronto para contribuir com equipes, aprender novas tecnologias e superar desafios no mercado de tecnologia.
 
 ## 🌱 O que estou trabalhando no momento
 
-- Desenvolvendo um **sistema IoT para agricultura de precisão**, utilizando o ESP32 para monitoramento inteligente de irrigação.
-- Criando o aplicativo **BuscaMed**, uma plataforma para conectar jovens a profissionais de saúde para agendamentos e consultas.
+- Aprimorando conhecimentos em Git e Github.
+
 
 
 ## 📫 Como me contatar
