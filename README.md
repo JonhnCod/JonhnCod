@@ -1,0 +1,45 @@
+# Olá! 👋 Eu sou o Jonathan
+
+## 🎓 Sobre Mim
+
+Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** pela PUC-PR, com grande interesse nas áreas de **dados, IoT**. Estou sempre em busca de novas oportunidades para aplicar e desenvolver minhas habilidades técnicas e teóricas no mundo real.
+
+Tenho experiência em:
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
+- **Análise de Dados**: Python, SQL, Pandas, Excel, Visualização de Dados
+- **Projetos IoT**: Conexão e monitoramento de dispositivos via ESP32, Node-RED e HiveMQ
+
+Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em uma vaga de júnior, onde possa contribuir com meus conhecimentos, adquirir novas habilidades e crescer profissionalmente.
+
+## 🚀 Habilidades
+- **Linguagens de Programação**: Python, JavaScript, SQL
+- **Tecnologias**: ESP32, Node-RED, HiveMQ
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
+- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib, Excel
+- **Métodos Ágeis**: Scrum, Kanban
+
+## 💼 O que estou procurando
+Atualmente estou **em busca de oportunidades de estágio** ou posições de **nível júnior** nas áreas de:
+- Análise de Dados
+- Desenvolvimento Web
+- Projetos IoT
+- Engenharia de Software
+
+Estou pronto para contribuir com equipes, aprender novas tecnologias e superar desafios no mercado de tecnologia.
+
+## 🌱 O que estou trabalhando no momento
+
+- Desenvolvendo um **sistema IoT para agricultura de precisão**, utilizando o ESP32 para monitoramento inteligente de irrigação.
+- Criando o aplicativo **BuscaMed**, uma plataforma para conectar jovens a profissionais de saúde para agendamentos e consultas.
+
+
+## 📫 Como me contatar
+- **LinkedIn**: [Jonathan no LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Email**: jonathan@example.com
+
+Estou sempre aberto a novas oportunidades e colaborações! Vamos conversar.
+
+<!---
+JonhnCod/JonhnCod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
