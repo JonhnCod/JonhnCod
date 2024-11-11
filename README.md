@@ -39,7 +39,7 @@ Estou pronto para contribuir com equipes, aprender novas tecnologias e superar d
 
 
 ## 📫 Como me contatar
-- **LinkedIn**: [Jonathan no LinkedIn](www.linkedin.com/in/jonathanarruda34)
+- **LinkedIn**: [Jonathan no LinkedIn](https://www.linkedin.com/in/jonathanarruda34)
 - **Email**: jonhnarruda@outlook.com
 
 Estou sempre aberto a novas oportunidades e colaborações! Vamos conversar.
