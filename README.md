@@ -31,7 +31,10 @@ Estou pronto para contribuir com equipes, aprender novas tecnologias e superar d
 
 ## 🌱 O que estou trabalhando no momento
 
-- Aprimorando conhecimentos em Git e Github.
+- Aprimorando conhecimentos em Git e Github, na plataforma do Curso em video do mestre Gustavo Guanabara.
+- Finalizando e organizando projetos pessoais e acadêmicos, buscando enriquecer meu portifólio.
+- Definição e representação do escopo do projeto, Aplicação de técnicas de estimativas e de testes, Projeto acadêmico, abordando conteúdos de fundamentos de Engenharia de software.
+- Detecção de Intrusão através da ferramenta Snort, Atividade acadêmica colocando em prática conhecimentos adequerido na disciplina: Segurança da Tecnologia da Informação.
 
 
 
