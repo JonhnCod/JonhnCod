@@ -2,11 +2,11 @@
 
 ## 🎓 Sobre Mim
 
-Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** pela PUC-PR, com grande interesse nas áreas de **dados, IoT**. Estou sempre em busca de novas oportunidades para aplicar e desenvolver minhas habilidades técnicas e teóricas no mundo real.
+Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** pela PUC-PR, com grande interesse nas áreas de **dados**. Estou sempre em busca de novas oportunidades para aplicar e desenvolver minhas habilidades técnicas e teóricas no mundo real.
 
 Tenho experiência em:
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
-- **Análise de Dados**: Python, SQL, Pandas, Excel, Visualização de Dados
+- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados
 - **Projetos IoT**: Conexão e monitoramento de dispositivos via ESP32, Node-RED e HiveMQ
 
 Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em uma vaga de júnior, onde possa contribuir com meus conhecimentos, adquirir novas habilidades e crescer profissionalmente.
@@ -15,7 +15,7 @@ Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em u
 - **Linguagens de Programação**: Python, JavaScript, SQL
 - **Tecnologias**: ESP32, Node-RED, HiveMQ
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
-- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib, Excel
+- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib
 - **Métodos Ágeis**: Scrum, Kanban
 
 ## 💼 O que estou procurando
