@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Jonathan
+# Olá! Eu sou o Jonathan 👋
 
 [](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#ol%C3%A1--eu-sou-o-jonathan)
 
