@@ -63,4 +63,4 @@ Estou sempre aberto a novas oportunidades e colaborações! Vamos conversar.
 
 **Jonathan Arruda**  
 Estudante de Análise e Desenvolvimento de Sistemas  
-Florianópolis, SC | 34 anos | jonathan.arruda@email.com | (00) 00000-0000 | LinkedIn: [linkedin.com/in/jonathanarruda34](https://www.linkedin.com/in/jonathanarruda34)
+Florianópolis, SC | 34 anos | jonathan.arruda@email.com | (48) 98804-8986 | LinkedIn: [linkedin.com/in/jonathanarruda34](https://www.linkedin.com/in/jonathanarruda34)
