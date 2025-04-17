@@ -10,8 +10,8 @@ Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** p
 
 Tenho experiência em:
 
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
-- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP, REACT, APIs
+- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados, SQL
 - **Projetos IoT**: Conexão e monitoramento de dispositivos via ESP32, Node-RED e HiveMQ
 
 Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em uma vaga de júnior, onde possa contribuir com meus conhecimentos, adquirir novas habilidades e crescer profissionalmente.
@@ -20,10 +20,10 @@ Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em u
 
 [](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-habilidades)
 
-- **Linguagens de Programação**: Python, JavaScript, SQL
-- **Tecnologias**: ESP32, Node-RED, HiveMQ
+- **Linguagens**: Python, JavaScript, JAVA
+- **Tecnologias**: ESP32, Node-RED, HiveMQ, AWS
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
-- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib
+- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib, SQL
 - **Métodos Ágeis**: Scrum, Kanban
 
 ## 💼 O que estou procurando
@@ -47,9 +47,9 @@ Estou pronto para contribuir com equipes, aprender novas tecnologias e superar d
 
 - Aprimorando conhecimentos em Git e Github, na plataforma do Curso em video do mestre Gustavo Guanabara.
 - Finalizando e organizando projetos pessoais e acadêmicos, buscando enriquecer meu portifólio.
-- Definição e representação do escopo do projeto, Aplicação de técnicas de estimativas e de testes, Projeto acadêmico, abordando conteúdos de fundamentos de Engenharia de software.
-- Detecção de Intrusão através da ferramenta Snort, Atividade acadêmica colocando em prática conhecimentos adequerido na disciplina: Segurança da Tecnologia da Informação.
-
+- Atualmente desenvolvendo projeto acadêmico envolvendo SOAP e REST com Java, utilizando SoapUI e servidor Apache Tomcat.
+- Estudando práticas de DevOps e desenvolvimento de sistemas web com frameworks modernos como React.
+  
 ## 📫 Como me contatar
 
 [](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-como-me-contatar)
@@ -58,7 +58,6 @@ Estou pronto para contribuir com equipes, aprender novas tecnologias e superar d
 - **Email**: [jonhnarruda@outlook.com](mailto:jonhnarruda@outlook.com)
 
 Estou sempre aberto a novas oportunidades e colaborações! Vamos conversar.
-
 
 
 **Jonathan Arruda**  
