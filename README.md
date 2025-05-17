@@ -10,8 +10,8 @@ Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** p
 
 Tenho experiência em:
 
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP, REACT, APIs
-- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados, SQL
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP, REACT, APIs,Flask
+- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados, SQL. Estrutura de dados, Mysql, Nosql
 - **Projetos IoT**: Conexão e monitoramento de dispositivos via ESP32, Node-RED e HiveMQ
 
 Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em uma vaga de júnior, onde possa contribuir com meus conhecimentos, adquirir novas habilidades e crescer profissionalmente.
