@@ -1,65 +1,48 @@
-# Olá! Eu sou o Jonathan 👋
+# 👋 Olá! Eu sou o Jonathan Arruda
 
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#ol%C3%A1--eu-sou-o-jonathan)
+Sou recém-formado em **Análise e Desenvolvimento de Sistemas pela PUC-PR**, com foco em desenvolvimento web e back-end com Python e Java. Atualmente, venho consolidando minhas habilidades com projetos práticos, explorando frameworks modernos como **React**, **Flask** e práticas de **DevOps com Docker e GitHub Actions**.
 
-## 🎓 Sobre Mim
+---
 
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-sobre-mim)
+## 🚀 Tecnologias e Ferramentas
 
-Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** pela PUC-PR, com grande interesse nas áreas de **dados**. Estou sempre em busca de novas oportunidades para aplicar e desenvolver minhas habilidades técnicas e teóricas no mundo real.
+- **Linguagens:** Python, JavaScript, Java
+- **Frameworks:** Flask, React
+- **DevOps:** Docker, GitHub Actions, Git
+- **Banco de Dados:** MySQL, NoSQL (MongoDB)
+- **Ferramentas:** Git, VS Code, Postman, Insomnia
+- **Metodologias:** Scrum, Kanban
 
-Tenho experiência em:
+---
 
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP, REACT, APIs,Flask
-- **Análise de Dados**: Python, SQL, Pandas, Visualização de Dados, SQL. Estrutura de dados, Mysql, Nosql
-- **Projetos IoT**: Conexão e monitoramento de dispositivos via ESP32, Node-RED e HiveMQ
+## 🛠️ O que estou trabalhando agora
 
-Meu objetivo atual é me inserir no mercado de trabalho como estagiário ou em uma vaga de júnior, onde possa contribuir com meus conhecimentos, adquirir novas habilidades e crescer profissionalmente.
+- Finalizando projetos pessoais e acadêmicos para fortalecer meu portfólio
+- Desenvolvendo um sistema Java com APIs SOAP e REST, usando SoapUI e Apache Tomcat
+- Aprofundando em Git e GitHub com o curso do Gustavo Guanabara
+- Aprimorando o uso de containers com Docker e práticas de integração contínua
 
-## 🚀 Habilidades
+---
 
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-habilidades)
+## 🎯 Buscando oportunidades como
 
-- **Linguagens**: Python, JavaScript, JAVA
-- **Tecnologias**: ESP32, Node-RED, HiveMQ, AWS
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP
-- **Ferramentas de Dados**: Pandas, NumPy, Matplotlib, SQL
-- **Métodos Ágeis**: Scrum, Kanban
+- Desenvolvedor Web (React + Flask)
+- Desenvolvedor Back-end Júnior
+- Dev Python Júnior
+- Estagiário em Engenharia de Software
 
-## 💼 O que estou procurando
+Estou pronto para integrar times colaborativos, aprender com desafios reais e contribuir com soluções bem estruturadas.
 
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-o-que-estou-procurando)
+---
 
-Atualmente estou **em busca de oportunidades de estágio** ou posições de **nível júnior** nas áreas de:
+## 📫 Contato
 
-- Análise de Dados
-- Desenvolvimento Web
-- Projetos IoT
-- Engenharia de Software
-- Analista de sistemas
-- Desenvolvedor Python
+- 📍 Florianópolis, SC  
+- 📧 jonhnarruda@outlook.com  
+- 📞 (48) 98804-8986  
+- 🔗 [LinkedIn](https://linkedin.com/in/jonathanarruda34)
 
-Estou pronto para contribuir com equipes, aprender novas tecnologias e superar desafios no mercado de tecnologia.
+---
 
-## 🌱 O que estou trabalhando no momento
+**Vamos conversar!** Estou aberto a colaborações, freelas e oportunidades de crescimento na área de tecnologia.  
 
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-o-que-estou-trabalhando-no-momento)
-
-- Aprimorando conhecimentos em Git e Github, na plataforma do Curso em video do mestre Gustavo Guanabara.
-- Finalizando e organizando projetos pessoais e acadêmicos, buscando enriquecer meu portifólio.
-- Atualmente desenvolvendo projeto acadêmico envolvendo SOAP e REST com Java, utilizando SoapUI e servidor Apache Tomcat.
-- Estudando práticas de DevOps e desenvolvimento de sistemas web com frameworks modernos como React.
-  
-## 📫 Como me contatar
-
-[](https://github.com/JonhnCod/JonhnCod/blob/main/README.md#-como-me-contatar)
-
-- **LinkedIn**: [Jonathan no LinkedIn](https://www.linkedin.com/in/jonathanarruda34)
-- **Email**: [jonhnarruda@outlook.com](mailto:jonhnarruda@outlook.com)
-
-Estou sempre aberto a novas oportunidades e colaborações! Vamos conversar.
-
-
-**Jonathan Arruda**  
-Estudante de Análise e Desenvolvimento de Sistemas  
-Florianópolis, SC | 34 anos | jonathan.arruda@email.com | (48) 98804-8986 | LinkedIn: [linkedin.com/in/jonathanarruda34](https://www.linkedin.com/in/jonathanarruda34)
