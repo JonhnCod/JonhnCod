@@ -1,6 +1,6 @@
 # Olá, eu sou o Jonathan Arruda 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela PUC-PR e um apaixonado por tecnologia, dados e desenvolvimento. Minha jornada começou com o interesse em entender como sistemas funcionam, evoluindo para o aprendizado prático de linguagens de programação, análise de dados e conceitos de DevOps. Hoje, busco construir uma base sólida que me permita crescer profissionalmente e contribuir em projetos reais.
+Graduado em Análise e Desenvolvimento de Sistemas pela PUC-PR e um apaixonado por tecnologia, dados e desenvolvimento. Minha jornada começou com o interesse em entender como sistemas funcionam, evoluindo para o aprendizado prático de linguagens de programação, análise de dados e conceitos de DevOps. Hoje, busco construir uma base sólida que me permita crescer profissionalmente e contribuir em projetos reais.
 
 ---
 
