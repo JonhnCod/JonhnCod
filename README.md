@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Jonathan Arruda
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC-PR  
+🎓 Graduação em Análise e Desenvolvimento de Sistemas pela PUC-PR  
 🚀 Focado em **Análise de Dados**, **Desenvolvimento Web com Python** e **DevOps**  
 📚 Sempre aprendendo e aplicando na prática com projetos reais  
 🔍 Em busca de oportunidades como **Estagiário** ou **Desenvolvedor Júnior**
@@ -40,7 +40,7 @@
 ### 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-Jonathan%20Arruda-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanarruda34)  
-📫 jonathanarruda34@gmail.com
+📫 jonhnarruda@outlook.com
 
 ---
 
