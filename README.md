@@ -69,7 +69,7 @@ Meu objetivo atual é encontrar uma oportunidade para atuar como estagiário ou 
 Estou aberto a desafios que me façam crescer e contribuir com equipes. Se quiser conhecer mais, ver meus projetos ou trocar uma ideia, pode me chamar!
 
 [![LinkedIn](https://img.shields.io/badge/-Jonathan%20Arruda-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanarruda34)  
-📫 jonathanarruda34@gmail.com
+📫 jonatha.tec@outlook.com
 
 ---
 
